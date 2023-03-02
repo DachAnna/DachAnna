@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-DachAnna)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DachAnna&theme=vue)
 
