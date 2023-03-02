@@ -5,9 +5,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DachAnna&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DachAnna&theme=vue) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DachAnna&theme=vue)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DachAnna&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DachAnna&theme=vue) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DachAnna&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DachAnna)](https://github.com/DachAnna/github-readme-stats)
 
 <!--
 **DachAnna/DachAnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
