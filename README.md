@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-DachAnna)
 
 :blue_heart: My name is Anna Dyachenko
+
 :computer: I am QA Engineer
 
    * Experience in manual testing - 3 years
