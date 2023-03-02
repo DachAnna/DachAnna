@@ -3,9 +3,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DachAnna&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DachAnna&theme=vue)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DachAnna&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DachAnna&theme=vue) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DachAnna&theme=vue)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DachAnna&theme=vue)
 
