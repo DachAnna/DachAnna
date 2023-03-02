@@ -7,7 +7,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DachAnna&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DachAnna&theme=nord_bright)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DachAnna)](https://github.com/DachAnna/github-readme-stats)
 
 <!--
 **DachAnna/DachAnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
