@@ -3,9 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-DachAnna)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DachAnna&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DachAnna&theme=nord_bright)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DachAnna&theme=vue) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DachAnna&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DachAnna&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DachAnna&theme=nord_bright)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DachAnna)](https://github.com/DachAnna/github-readme-stats)
 
 <!--
