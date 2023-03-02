@@ -16,3 +16,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DachAnna&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DachAnna&theme=nord_bright)
 
 ![](https://komarev.com/ghpvc/?username=your-github-DachAnna)
+
+## :point_right: Языки и инструменты
+
+| IntelliJ IDEA | Java | Gradle | Junit5 | Selenide |
+|:------:|:----:|:----:|:------:|:------:|
+| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenide.png" width="40" height="40"> |
+
+| GitHub | Jenkins | Selenoid | Allure Report | Allure TestOps | Telegram | Jira |
+|:------:|:----:|:----:|:------:|:------:|:--------:|:------:|
+| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Github.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Jenkins.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenoid.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/AllureTestOps.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Telegram.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Jira.png" width="40" height="40"> |
