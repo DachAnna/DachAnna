@@ -2,23 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-DachAnna)
 
+:blue_heart: My name is Anna Dyachenko
+:computer: I am QA Engineer
+
+   * Experience in manual testing - 3 years
+   * Experience in automation - 6 months
+
+:email: sub.ektt@gmail.com
+
+:iphone: Contact me in Telegram @sub_ekt
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DachAnna&theme=nord_bright)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DachAnna&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DachAnna&theme=nord_bright)
-
-
-<!--
-**DachAnna/DachAnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
