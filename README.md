@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31ABE1&background=D6D6D6E0&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+repo!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=your-github-DachAnna)
 
