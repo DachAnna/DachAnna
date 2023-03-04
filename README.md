@@ -9,7 +9,7 @@
 
 :email: sub.ektt@gmail.com
 
-:iphone: Contact me in Telegram [@sub_ekt](https://t.me/sub_ekt)
+:iphone: Contact me in Telegram [@sub_ekt](https://t.me/sub_ekt) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DachAnna&theme=nord_bright)
 
