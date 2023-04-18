@@ -17,7 +17,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-DachAnna)
 
-## :point_right: Языки и инструменты
+## :point_right: Languages and Tools
 
 | IntelliJ IDEA | Java | Gradle | Junit5 | Selenide |
 |:------:|:----:|:----:|:------:|:------:|
