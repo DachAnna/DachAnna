@@ -14,9 +14,9 @@
 
 ## :point_right: Languages and Tools
 
-| IntelliJ IDEA | Java | Gradle | Junit5 | Selenide | REST assured |
-|:------:|:----:|:----:|:------:|:------:|:------:|
-| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenide.png" width="40" height="40"> | <img src="https://camo.githubusercontent.com/458ff21e784fe29b08d123ce2295c28adea4ecb09dd7ba7f5ec280dd7582a6cb/68747470733a2f2f66732e676574636f757273652e72752f66696c65736572766963652f66696c652f646f776e6c6f61642f612f3135393632372f73632f3432382f682f63313461616164636338386335653431326231346463666237373835646465352e737667" width="40" height="40"> |
+| IntelliJ IDEA | Java | Gradle | Junit5 | Selenide | REST assured | Appium |
+|:------:|:----:|:----:|:------:|:------:|:------:|:------:|
+| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenide.png" width="40" height="40"> | <img src="https://camo.githubusercontent.com/458ff21e784fe29b08d123ce2295c28adea4ecb09dd7ba7f5ec280dd7582a6cb/68747470733a2f2f66732e676574636f757273652e72752f66696c65736572766963652f66696c652f646f776e6c6f61642f612f3135393632372f73632f3432382f682f63313461616164636338386335653431326231346463666237373835646465352e737667" width="40" height="40"> | <img src="https://github.com/murugka31/WikipediaAppTests/blob/main/img/appium-logo-png-transparent.pnghttps://github.com/murugka31/WikipediaAppTests/blob/main/img/appium-logo-png-transparent.png" width="40" height="40"> |
 
 | GitHub | Jenkins | Selenoid | Allure Report | Allure TestOps | Telegram | Jira |
 |:------:|:----:|:----:|:------:|:------:|:--------:|:------:|
