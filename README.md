@@ -14,9 +14,9 @@
 
 ## :point_right: Languages and Tools
 
-| IntelliJ IDEA | Java | Gradle | Junit5 | Selenide |
-|:------:|:----:|:----:|:------:|:------:|
-| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenide.png" width="40" height="40"> |
+| IntelliJ IDEA | Java | Gradle | Junit5 | Selenide | REST assured |
+|:------:|:----:|:----:|:------:|:------:|:------:|
+| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenide.png" width="40" height="40"> | <img src="" width="40" height="40"> |
 
 | GitHub | Jenkins | Selenoid | Allure Report | Allure TestOps | Telegram | Jira |
 |:------:|:----:|:----:|:------:|:------:|:--------:|:------:|
