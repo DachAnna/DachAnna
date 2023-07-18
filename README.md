@@ -12,14 +12,14 @@
 :iphone: Contact me in Telegram [@sub_ekt](https://t.me/sub_ekt) 
 
 ## :point_right: Last projects
-
+## UI и API автоматизация для маркет-плейса Vivalo.ru
 <img src = "https://user-images.githubusercontent.com/118796374/222272725-b8a13150-3752-4c81-b5c7-5151429e2572.png" width="300" height="90">
 
-##UI и API автоматизация для маркет-плейса Vivalo.ru
-
-<img src = "https://user-images.githubusercontent.com/118747260/235356820-cac5f8d0-b855-4d5c-85db-b5f1d5bbe814.png" width="300" height="290">
 
 ## Автоматизация тестирования для мобильного приложения Wikipedia
+<img src = "https://user-images.githubusercontent.com/118747260/235356820-cac5f8d0-b855-4d5c-85db-b5f1d5bbe814.png" width="300" height="290">
+
+
 
 
 ## :point_right: Languages and Tools
