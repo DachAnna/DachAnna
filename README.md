@@ -14,7 +14,6 @@
 ## :point_right: Last projects
 
 <img src = "https://user-images.githubusercontent.com/118796374/222272725-b8a13150-3752-4c81-b5c7-5151429e2572.png" width="300" height="90">
-![Vivalo logo](https://user-images.githubusercontent.com/118796374/222272725-b8a13150-3752-4c81-b5c7-5151429e2572.png)
 ## UI и API автоматизация для маркет-плейса Vivalo.ru
 
 ![Wiki logo](https://user-images.githubusercontent.com/118747260/235356820-cac5f8d0-b855-4d5c-85db-b5f1d5bbe814.png)
