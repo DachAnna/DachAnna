@@ -12,8 +12,11 @@
 :iphone: Contact me in Telegram [@sub_ekt](https://t.me/sub_ekt) 
 
 ## :point_right: Last projects
-## UI и API автоматизация для маркет-плейса Vivalo.ru
+## UI и API автоматизация для маркет - плейса Vivalo.ru
 <img src = "https://user-images.githubusercontent.com/118796374/222272725-b8a13150-3752-4c81-b5c7-5151429e2572.png" width="300" height="90">
+
+## API автоматизация для интернет - магазина shop.bugred.ru
+<img src = "https://profitsonline.ru/wp-content/uploads/2017/05/Depositphotos_68989301_m-2015-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg" width="300" height="90">
 
 
 ## Автоматизация тестирования для мобильного приложения Wikipedia
